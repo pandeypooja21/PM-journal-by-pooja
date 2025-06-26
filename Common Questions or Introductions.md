@@ -10,5 +10,8 @@
 
 - Product managers are responsible for defining the product vision, strategy, and roadmap, ensuring that the product meets customer needs and business goals. They work cross-functionally with teams like engineering, marketing, and sales to deliver a product that provides value over its entire lifecycle. While project managers focus on the execution of specific initiatives, product managers concentrate on the long-term success and evolution of a product.
 
-# Key Responsibility and Roles
+##Key Responsibility and Roles
 - A product manager is a pivotal role that stands at the crossroads of business, technology, and user experience aspects. Their roles and responsibilities include understanding customer needs, defining and communicating product strategy, prioritizing product features, liaising with different teams such as engineering, sales and marketing to ensure seamless product development and launch, monitoring and analyzing market trends, and ultimately driving the success of the product in the market. A prodigious product manager, with a unique blend of business acuity and technical knack, can significantly impact the product's acceptance in the market and the company's bottom line.
+
+# The Next topic is product development life cycle
+## 
